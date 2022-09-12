@@ -2,7 +2,7 @@ $(document).ready(function() {
 
   $('#slides').superslides({
     animation: 'fade',
-    play: 3000,
+    play: 3500,
     pagination: false
   });
 
