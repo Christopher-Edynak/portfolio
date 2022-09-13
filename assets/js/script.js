@@ -27,7 +27,7 @@ $(document).ready(function(){
     //your options goes here
     easing: 'easeInOut',
     barColor: '#FF0000',
-    trackColor: '#000',
+    trackColor: '#fff',
     scaleColor: false,
     lineWidth: 4,
     size: 152,
