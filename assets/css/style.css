@@ -158,3 +158,18 @@ body {
   margin: -20%;
   color: #FFD500;
 }
+
+.contactButton {
+  color: #fff;
+  padding: 15px 20px;
+  display: inline-block;
+  margin-top: 20px;
+  border: 1px solid #fff;
+  border-radius: 2px;
+}
+
+.contactButton:hover {
+  text-decoration: none;
+  color: #005BBB;
+  background-color: #fff;
+}
